@@ -83,7 +83,7 @@
   - BigInt 🎓 known
 - Infrastructure
   - V8 👂 heard
-  - Node.js 👂 heard
+  - Node.js 🎓 known
   - npm 🎓 known
-  - prettier 👂 heard
-  - MDN  👂 heard
+  - prettier 🎓 known
+  - MDN  🎓 known
